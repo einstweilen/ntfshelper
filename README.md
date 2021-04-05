@@ -9,7 +9,7 @@ NTFS Helper runs on OS X 10.6 Snow Leopard and above.
 ## How to download and install
 Download and extract the NTFS Helper zip file.
 
-[Click to download](NTFSHelper_20210305.zip)
+[Click to download](https://github.com/einstweilen/ntfshelper/raw/main/NTFSHelper_20210305.zip)
 
 ![](img/unzippedfolder.jpg)
 

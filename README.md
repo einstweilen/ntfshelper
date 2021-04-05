@@ -1,6 +1,6 @@
 # NTFS Helper for OS X macOS
 
-Enabling Apple's unofficial NTFS write support is an old 'trick', this [Mac OS X Hints article](http://hints.macworld.com/article.php?story=20090913140023382) from **2009** links to a similar app, the original site is down but still available via the Wayback Machine [NTFS Mounter](https://web.archive.org/web/20180308141804/http://www.ntfsmounter.com/)).
+Enabling Apple's unofficial NTFS write support is an old 'trick', this [Mac OS X Hints article](http://hints.macworld.com/article.php?story=20090913140023382) from **2009** links to a similar app, the original site is down but still available via the Wayback Machine [NTFS Mounter](https://web.archive.org/web/20180308141804/http://www.ntfsmounter.com/).
 
 NTFS Helper consists of two services: **NFTS Watcher** (monitors newly mounted disks and offers to make a NTFS disk writable) and **NTFS Helper** (makes disks writable and cleans hidden OS X specific files and folders before ejecting the NTFS disk). The services can be used together or each on it's own.
 

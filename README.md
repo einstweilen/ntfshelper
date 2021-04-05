@@ -1,6 +1,6 @@
-# NTFS Helper for Os X macOS
+# NTFS Helper for OS X macOS
 
-This is a very old trick (this [Mac OX S Hints article](http://hints.macworld.com/article.php?story=20090913140023382) from **2009** links to a similar app, the original site is down but still available via the Wayback Machine [NTFS Mounter](https://web.archive.org/web/20180308141804/http://www.ntfsmounter.com/)) but
+This is a very old trick (this [Mac OS X Hints article](http://hints.macworld.com/article.php?story=20090913140023382) from **2009** links to a similar app, the original site is down but still available via the Wayback Machine [NTFS Mounter](https://web.archive.org/web/20180308141804/http://www.ntfsmounter.com/)) but
 
 NTFS Helper consists of two services: **NFTS Watcher** (monitors newly mounted disks and offers to make a NTFS disk writable) and **NTFS Helper** (makes disks writable and cleans hidden OS X specific files and folders before ejecting the NTFS disk). The services can be used together or each on it's own.
 
@@ -8,6 +8,8 @@ NTFS Helper runs on OS X 10.6 Snow Leopard and above.
 
 ## How to download and install
 Download and extract the NTFS Helper zip file.
+
+[Click to download](NTFSHelper_20210305.zip)
 
 ![](img/unzippedfolder.jpg)
 
@@ -42,6 +44,7 @@ Right click on the disk icon of a NTFS drive and select 'NTFS Helper' from the F
 **Case One** - the NTFS disk is read-only
 
 NTFS Watcher offers to enable NTFS write support.
+
 ![](img/mounthelper.jpg)
 
 To enable write support click OK and enter your password.
